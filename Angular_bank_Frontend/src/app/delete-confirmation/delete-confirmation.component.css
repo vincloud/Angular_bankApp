@@ -1,0 +1,14 @@
+#d1{
+    border: white;
+    border-style: dotted;
+    padding: 20px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px
+}
+
+button{
+   border-radius: 12px;
+   margin: 5px;
+}
+
